@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <a href="https://qiita.com/ushi_osushi">
+    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/posts.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/contributions.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/followers.svg" />
+  </a>
+</p>
