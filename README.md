@@ -47,8 +47,8 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="49%" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="49%" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>  
 </td></tr></table>  
@@ -56,7 +56,7 @@
 ## Github Stats  
 <div align="">
   
-<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" width="" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" height="200"/>
 <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
