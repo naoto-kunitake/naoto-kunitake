@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Naoto Kunitake, a frontend developer👨‍💻
 
 <div>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://qiita.com/ushi_osushi"  target="_blank">
     <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/posts.svg" />
     </a>
@@ -62,14 +61,3 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
 </td></tr></table>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    var links = document.querySelectorAll("a[href^='http']:not([href*='" + window.location.hostname + "'])");
-    links.forEach(function (link) {
-        link.setAttribute('target', '_new');
-    });
-});
-</script>
-
-
