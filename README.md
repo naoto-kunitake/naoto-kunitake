@@ -56,8 +56,8 @@
 ## Github Stats  
 <div align="">
   
-<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" width="49%" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" width="49%" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&count_private=true&hide_border=true&layout=compact" height="200"/>
 <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
 
