@@ -61,3 +61,6 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
 </td></tr></table>
+
+## My Curriculum Vitae
+[https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
