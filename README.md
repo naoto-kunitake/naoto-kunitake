@@ -1,15 +1,17 @@
 ## Hi 👋, I'm Naoto Kunitake, a frontend developer👨‍💻
 
 <div>
-  <a href="https://qiita.com/ushi_osushi"  target="_blank">
-    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/posts.svg" />
-    </a>
-    <a href="https://qiita.com/ushi_osushi" target="_blank">
-    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/contributions.svg" />
-      </a>
-      <a href="https://qiita.com/ushi_osushi" target="_blank">
-    <img src="https://qiita-badge.apiapi.app/s/ushi_osushi/followers.svg" />
-  </a>
+  <a href="https://github.com/naoto-kunitake" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+  <a href="https://www.youtube.com/@mitsuzara4192" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+</a> 
+</div>
+  <div>
+  <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/contributions?style=for-the-badge" alt="Contributions" /></a>
+  <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/followers?style=for-the-badge" alt="Followers" /></a>
+  <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/articles?style=for-the-badge" alt="Articles" /></a>
 </div>  
 
 ## My Skill Set  
@@ -52,15 +54,20 @@
 </td></tr></table>  
 
 ## Github Stats  
-<table align="center"><tr><td valign="top" width="50%">
+<div align="">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" height="200"/>
+<img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoto-kunitake&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>
+<p align="left">
+<a href="/https://qiita.com/ushi_osushi/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/ushi_osushi/feed" height="30" width="40" /></a>
+</p>
 
 ## My Curriculum Vitae
 [https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
