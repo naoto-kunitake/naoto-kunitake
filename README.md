@@ -61,17 +61,13 @@
 <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
 
-# Blog posts
+## My Curriculum Vitae
+[https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
+
+## Qiita posts
 <!-- BLOG-POST-LIST:START -->
 - [学校でやっていた勉強法は全て忘れろ。今すぐにだ。](https://qiita.com/ushi_osushi/items/ae87bd1f59b3f28d4d3d)
 - [【CSS】グラデーション（linear-gradient）の使い方まとめ](https://qiita.com/ushi_osushi/items/eb67e2650def63b05e1a)
 - [【CSS】position: absoluteの中央寄せ方法まとめ](https://qiita.com/ushi_osushi/items/d9f0c8990b2e807969d2)
 - [誤解されがちなSEO対策 7選](https://qiita.com/ushi_osushi/items/92331e9318d8526c9889)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-<a href="/https://qiita.com/ushi_osushi/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/ushi_osushi/feed" height="30" width="40" /></a>
-</p>
-
-## My Curriculum Vitae
-[https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
