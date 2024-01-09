@@ -1,14 +1,6 @@
 ## Hi 👋, I'm Naoto Kunitake, a frontend developer👨‍💻
 
 <div>
-  <a href="https://github.com/naoto-kunitake" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</a>
-  <a href="https://www.youtube.com/@mitsuzara4192" target="_blank">
-<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-</a> 
-</div>
-  <div>
   <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/contributions?style=for-the-badge" alt="Contributions" /></a>
   <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/followers?style=for-the-badge" alt="Followers" /></a>
   <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/articles?style=for-the-badge" alt="Articles" /></a>
@@ -64,7 +56,8 @@
 ## My Curriculum Vitae
 [https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
 
-## Qiita posts
+## Qiita Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [学校でやっていた勉強法は全て忘れろ。今すぐにだ。](https://qiita.com/ushi_osushi/items/ae87bd1f59b3f28d4d3d)
 - [【CSS】グラデーション（linear-gradient）の使い方まとめ](https://qiita.com/ushi_osushi/items/eb67e2650def63b05e1a)
