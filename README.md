@@ -6,7 +6,7 @@
   <a href="https://qiita.com/ushi_osushi"><img src="https://badgen.org/img/qiita/ushi_osushi/articles?style=for-the-badge" alt="Articles" /></a>
 </div>  
 
-## Languages and Tools
+### Languages and Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -19,9 +19,11 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<table><tr><td valign="top" width="33%">
+<table>
 
-## Github Stats  
+---
+
+### Github Stats  
 <div align="">
   
 <img src="https://git-hub-readme-stats-clone-a-sand.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" height="200"/>
@@ -29,10 +31,14 @@
 <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
 
-## My Curriculum Vitae
+---
+
+### My Curriculum Vitae
 [https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
 
-## Qiita Posts
+---
+
+### Qiita Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [学校でやっていた勉強法は全て忘れろ。今すぐにだ。](https://qiita.com/ushi_osushi/items/ae87bd1f59b3f28d4d3d)
