@@ -17,6 +17,7 @@
   <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="nuxtjs" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82" />
+  <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white" />
