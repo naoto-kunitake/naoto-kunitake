@@ -9,25 +9,23 @@
 ### Languages and Tools
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-f0db4e.svg?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
-  <img alt="nuxtjs" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82" />
-  <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="vue" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="nuxtjs" src="https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82" />
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="gulp" src="https://img.shields.io/badge/gulp-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black" />
-  
-<table>
+  <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black" />
 
 ---
 
@@ -35,7 +33,6 @@
 <div align="">
   
 <img src="https://git-hub-readme-stats-clone-a-sand.vercel.app/api?username=naoto-kunitake&show_icons=true&count_private=true&hide_border=true" height="200"/>
-<img src="https://git-hub-readme-stats-clone-a-sand.vercel.app/api/top-langs/?username=naoto-kunitake&count_private=true&hide_border=true&layout=compact" height="200"/>
 <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
 
