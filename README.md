@@ -24,6 +24,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
   <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black" />
