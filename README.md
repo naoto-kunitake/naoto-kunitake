@@ -45,7 +45,7 @@
 
 ---
 
-### Qiita Posts
+### My Latest Qiita Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Gitのローカルブランチをまとめて削除する方法](https://qiita.com/ushi_osushi/items/5666f482e8cbe6a1df98)
