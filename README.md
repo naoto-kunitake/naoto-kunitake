@@ -40,11 +40,6 @@
 
 ---
 
-### My Curriculum Vitae
-[https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
-
----
-
 ### My Latest Qiita Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,3 +48,8 @@
 - [【CSS】グラデーション（linear-gradient）の使い方まとめ](https://qiita.com/ushi_osushi/items/eb67e2650def63b05e1a)
 - [【CSS】position: absoluteの中央寄せ方法まとめ](https://qiita.com/ushi_osushi/items/d9f0c8990b2e807969d2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### My Curriculum Vitae
+[https://github.com/naoto-kunitake/Curriculum-Vitae/](https://github.com/naoto-kunitake/Curriculum-Vitae/)
