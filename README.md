@@ -40,10 +40,10 @@
 ### My Latest Qiita Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【React】dangerouslySetInnerHTMLの危険性と安全な使用方法](https://qiita.com/ushi_osushi/items/2c09e2d3a1f3db63e5a3)
 - [Gitのローカルブランチをまとめて削除する方法](https://qiita.com/ushi_osushi/items/5666f482e8cbe6a1df98)
 - [学校でやっていた勉強法は全て忘れろ。今すぐにだ。](https://qiita.com/ushi_osushi/items/ae87bd1f59b3f28d4d3d)
 - [【CSS】グラデーション（linear-gradient）の使い方まとめ](https://qiita.com/ushi_osushi/items/eb67e2650def63b05e1a)
-- [【CSS】position: absoluteの中央寄せ方法まとめ](https://qiita.com/ushi_osushi/items/d9f0c8990b2e807969d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
