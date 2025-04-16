@@ -20,12 +20,13 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ### Github Stats  
 <div align="">
-<img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naoto-kunitake" />
 </div>
 
 ---
