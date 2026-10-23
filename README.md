@@ -6,11 +6,6 @@
 ### Languages and Tools
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-112022?style=flat-square&logo=typescript" />
-  <img alt="React" src="https://img.shields.io/badge/React-112022?style=flat-square&logo=react" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-112022?style=flat-square&logo=nextdotjs" />
-</p>
-<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
