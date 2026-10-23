@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" width="854" height="200" role="img" aria-label="Naoto Kunitake, Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbfa"/><stop offset="1" stop-color="#fdfcf7"/></linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0.05" r="0.7"><stop offset="0" stop-color="#81D8D0" stop-opacity="0.4"/><stop offset="1" stop-color="#81D8D0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0.00" stop-color="#0ABAB5"/><stop offset="1.00" stop-color="#2dd4bf"/></linearGradient>
+    <linearGradient id="w2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="0" spreadMethod="reflect"><stop offset="0.00" stop-color="#81D8D0"/><stop offset="1.00" stop-color="#ccfbf1"/></linearGradient>
+    <clipPath id="card"><rect width="854" height="200" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .wave { animation: drift 16s linear infinite; }
+    .wave.back { animation-duration: 26s; animation-direction: reverse; }
+    @keyframes drift { to { transform: translateX(-854px); } }
+    .name { font: 700 40px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #0f2a2c; letter-spacing: -0.5px; }
+    .role { font: 500 16px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #b8962e; letter-spacing: 3px; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="854" height="200" fill="url(#bg)"/>
+    <rect width="854" height="200" fill="url(#glow)"/>
+    <g class="wave back" opacity="0.5"><path fill="url(#w2)" d="M0,154 C106.75,154 106.75,128 213.5,128 C320.25,128 320.25,102 427,102 C533.75,102 533.75,128 640.5,128 C747.25,128 747.25,154 854,154 C960.75,154 960.75,128 1067.5,128 C1174.25,128 1174.25,102 1281,102 C1387.75,102 1387.75,128 1494.5,128 C1601.25,128 1601.25,154 1708,154 V200 H0 Z"/></g>
+    <g class="wave" opacity="0.7"><path fill="url(#w1)" d="M0,140 C106.75,140 106.75,118 213.5,118 C320.25,118 320.25,140 427,140 C533.75,140 533.75,162 640.5,162 C747.25,162 747.25,140 854,140 C960.75,140 960.75,118 1067.5,118 C1174.25,118 1174.25,140 1281,140 C1387.75,140 1387.75,162 1494.5,162 C1601.25,162 1601.25,140 1708,140 V200 H0 Z"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="853" height="199" rx="15.5" fill="none" stroke="#e5e7e3"/>
+  <text class="name" x="48" y="92">Naoto Kunitake</text>
+  <text class="role" x="50" y="124">FRONTEND DEVELOPER</text>
+</svg>
