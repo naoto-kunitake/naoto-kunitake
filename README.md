@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naoto-kunitake/naoto-kunitake/main/.github/assets/banner-dark.svg">
-  <img alt="Naoto Kunitake, Frontend Developer" src="https://raw.githubusercontent.com/naoto-kunitake/naoto-kunitake/main/.github/assets/banner-light.svg" width="100%">
+  <img alt="Naoto Kunitake, Frontend / Design Engineer" src="https://raw.githubusercontent.com/naoto-kunitake/naoto-kunitake/main/.github/assets/banner-light.svg" width="100%">
 </picture>
 
 ### Languages and Tools
